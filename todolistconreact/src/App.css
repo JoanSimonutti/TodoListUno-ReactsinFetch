@@ -1,0 +1,62 @@
+.card {
+  width: 40rem;
+  border: ridge, 25px, #a23000;
+  border-radius: 33px;
+  color: white;
+
+}
+
+.card-header {
+  background-color: #b84207;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.card-body {
+  padding: 12px 24px;
+  background-color: #cd540e;
+  min-height: 220px;
+}
+
+input {
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+.fa-regular.fa-rectangle-xmark:hover {
+  color: #2ef8a0;
+}
+
+.fa-regular.fa-rectangle-xmark:active {
+  color: #01c4e7;
+}
+
+h3 {
+  margin: 0;
+  text-decoration: underline;
+  font-size: 3rem;
+
+}
+
+ol {
+  margin: 22px 0 0 0;
+  padding: 0;
+}
+
+li {
+  padding: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 2rem;
+
+}
+
+.li-vacio {
+  justify-content: center;
+  margin-top: 45px;
+
+}
